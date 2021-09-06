@@ -1,7 +1,9 @@
 # Steganocet
 Hide any secret information or files inside an image without anyone knowing.
 
-**Supported OS:** Windows
+**Supported OS:** Windows<br>
+Linux users can install the "wine" package on their system to run VBScript and batch files.<br>
+Mac users can use Bootcamp to run VBScript and batch files.
 
 ## How to use?
 Clone this repository or download the [zip file](https://github.com/AyushShahh/steganocet/archive/refs/heads/main.zip).
@@ -29,7 +31,7 @@ An identical image with same name and format will be generated with your confide
 If you compare both images, you can't differentiate between them. They are similar and identical, but the new one contains everything you wanted to hide. Even the image properties remain same.
 
 No one will ever know that it's not just an ordinary image.
-> Note that the image size will somewhat increase because it contains the hidden information.
+> Note that the image size will increase depending on the information you hide.
 
 ## How to access/extract the hidden information?
 You can access the information using any zip extractor. The most popular ones are [WinRAR](https://www.win-rar.com/) and [7zip](https://www.7-zip.org/).

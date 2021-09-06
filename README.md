@@ -17,7 +17,7 @@ Examples:<br>
 :heavy_check_mark: cool_photo.png<br>
 :heavy_check_mark: niceimage.jpg<br>
 :x: aesthetic photo.png<br>
-:x: yummy cake.jpg<br>
+:x: yummy cake.jpg<br><br>
 
 Copy everything you want to hide inside the `hidefile` folder.
 

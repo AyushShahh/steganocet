@@ -12,6 +12,7 @@ Clone this repository or download the [zip file](https://github.com/AyushShahh/s
 git clone https://github.com/AyushShahh/steganocet.git
 ```
 <br>
+
 Copy the image inside which you want to hide the information/file in the `image` folder.
 Do not use spaces in the image name.
 <br><br>

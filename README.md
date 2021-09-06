@@ -6,9 +6,9 @@ Hide any secret information or files inside an image without anyone knowing.
 ## How to use?
 Clone this repository or download the [zip file](https://github.com/AyushShahh/steganocet/archive/refs/heads/main.zip).
 
-`
+```
 git clone https://github.com/AyushShahh/steganocet.git
-`
+```
 
 Copy the image inside which you want to hide the information or file in the `image` folder.
 Do not use spaces in the image name.

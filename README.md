@@ -11,7 +11,7 @@ git clone https://github.com/AyushShahh/steganocet.git
 `
 
 Copy the image inside which you want to hide the information or file in the `image` folder.
-Do not use spaces in the image name.
+Do not use spaces in the image name.<br><br>
 
 Examples:<br>
 :heavy_check_mark: cool_photo.png<br>

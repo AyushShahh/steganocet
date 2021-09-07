@@ -1,7 +1,10 @@
-:: BSD 3-Clause License
-:: Copyright (c) 2021, Ayush Shah
-:: https://github.com/AyushShahh/steganocet
-:: All rights reserved.
+:: Copyright 2021 Ayush Shah
+
+:: Licensed under the Apache License, Version 2.0 (the "License");
+:: you may not use this file except in compliance with the License.
+:: You may obtain a copy of the License at
+
+:: http://www.apache.org/licenses/LICENSE-2.0
 
 @echo off
 title Steganocet

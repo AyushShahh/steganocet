@@ -32,7 +32,7 @@ An identical image with same name and format will be generated with your confide
 If you compare both images, you can't differentiate between them. They are similar and identical, but the new one contains everything you wanted to hide. Even the image properties remain same.
 
 No one will ever know that it's not just an ordinary image.
-> Note that the image size will increase depending on the information you hide.
+> Note that the image size will increase by some ratio depending on the information you hide.
 
 ## How to access/extract the hidden information?
 You can access the information using any zip extractor. The most popular ones are [WinRAR](https://www.win-rar.com/) and [7zip](https://www.7-zip.org/).
@@ -42,4 +42,4 @@ Right click on the new image file created and then select **Open with WinRAR** o
 If you can't find the option then go to your zip extractor program and open the image manually inside it.
 
 ## License
-This project is licensed under the **BSD 3-Clause** license. See the **[LICENSE](https://github.com/AyushShahh/steganocet/blob/main/LICENSE)** file for details.
+This project is licensed under the **Apache-2.0 License**. See the **[LICENSE](https://github.com/AyushShahh/steganocet/blob/main/LICENSE)** file for details.

@@ -1,3 +1,6 @@
+' Copyright 2021 Ayush Shah
+' https://github.com/AyushShahh/steganocet
+
 Set objArgs = WScript.Arguments
 Set FS = CreateObject("Scripting.FileSystemObject")
 InputFolder = FS.GetAbsolutePathName(objArgs(0))

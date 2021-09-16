@@ -11,4 +11,6 @@ Set source = objShell.NameSpace(InputFolder).Items
 
 objShell.NameSpace(ZipFile).CopyHere(source)
 
-wScript.Sleep 5000
+Do Until objShell.NameSpace( ZipFile ).Items.Count = objShell.NameSpace( InputFolder ).Items.Count
+    WScript.Sleep 200
+Loop

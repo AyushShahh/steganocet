@@ -1,12 +1,13 @@
 # Steganocet
-Hide any secret information or files inside an image without anyone knowing.
+Hide any secret information or files inside an image without anyone knowing.<br>
+Download the latest stable version [here](https://github.com/AyushShahh/steganocet/releases/download/1.0.0/steganocet-main-v1.zip).
 
 **Supported OS:** Windows<br>
 Linux users can install the "wine" package on their system to run VBScript and batch files.<br>
 Mac users can use Bootcamp to run VBScript and batch files.
 
 ## How to use?
-Clone this repository or download the [zip file](https://github.com/AyushShahh/steganocet/archive/refs/heads/main.zip).
+Clone this repository or download the [zip source file](https://github.com/AyushShahh/steganocet/archive/refs/heads/main.zip).
 
 ```
 git clone https://github.com/AyushShahh/steganocet.git
